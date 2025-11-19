@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Claire! 👋</h1>
+<h1 align="center">Hi, I'm <i>Claire</i>! 🌸</h1>
 <p align="center">
 QA Tester | IT Professional
 </p>
