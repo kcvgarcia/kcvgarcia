@@ -17,10 +17,6 @@ QA Tester | IT Professional
 - **Bug Reports & Test Documentation** – [GitHub Repo](https://github.com/YOUR_GITHUB/Bug-Reports)
 - **Mobile App QA (Android & iOS)** – [GitHub Repo](https://github.com/YOUR_GITHUB/Mobile-QA-Projects)
 
-### Development Projects
-- **Data Structures & Algorithms (Python)** – [Repo](https://github.com/YOUR_GITHUB/Algorithms-Practice)
-- **Web Testing & Cross-Browser QA** – [Repo](https://github.com/YOUR_GITHUB/Web-QA-Projects)
-
 ---
 
 ## ⚡ Skills & Tools
