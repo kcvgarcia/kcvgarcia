@@ -13,9 +13,10 @@ QA Tester | IT Professional
 ## 👨‍💻 My Projects
 
 ### QA & Automation
-- **Selenium + TestNG Automation** – [GitHub Repo](https://github.com/YOUR_GITHUB/Selenium-TestNG-Projects)
-- **Bug Reports & Test Documentation** – [GitHub Repo](https://github.com/YOUR_GITHUB/Bug-Reports)
-- **Mobile App QA (Android & iOS)** – [GitHub Repo](https://github.com/YOUR_GITHUB/Mobile-QA-Projects)
+- **Test Cases** – [GitHub Repo](https://github.com/YOUR_GITHUB/Bug-Reports)
+- **Bug Reports** – [GitHub Repo](https://github.com/YOUR_GITHUB/Bug-Reports)
+- **Selenium** – [GitHub Repo](https://github.com/YOUR_GITHUB/Selenium-TestNG-Projects)
+- **Mobile App QA** – [GitHub Repo](https://github.com/YOUR_GITHUB/Mobile-QA-Projects)
 
 ---
 
