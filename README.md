@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <img src="[https://YOUR_PROFILE_PICTURE_URL](https://avatars.githubusercontent.com/u/235477762?v=4)" width="150" alt="Claire Valdez">
+</p>
 
-<!--
-**kcvgarcia/kcvgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Claire! 👋</h1>
+<p align="center">
+QA Tester | IT Professional
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/kcvgarcia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kcvgarcia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 My Projects
+
+### QA & Automation
+- **Selenium + TestNG Automation** – [GitHub Repo](https://github.com/YOUR_GITHUB/Selenium-TestNG-Projects)
+- **Bug Reports & Test Documentation** – [GitHub Repo](https://github.com/YOUR_GITHUB/Bug-Reports)
+- **Mobile App QA (Android & iOS)** – [GitHub Repo](https://github.com/YOUR_GITHUB/Mobile-QA-Projects)
+
+### Development Projects
+- **Data Structures & Algorithms (Python)** – [Repo](https://github.com/YOUR_GITHUB/Algorithms-Practice)
+- **Web Testing & Cross-Browser QA** – [Repo](https://github.com/YOUR_GITHUB/Web-QA-Projects)
+
+---
+
+## ⚡ Skills & Tools
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-F25022?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kcvgarcia) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/kcvgarcia)  
