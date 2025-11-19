@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/235477762?v=4]" width="150" alt="Claire Valdez">
-</p>
-
 <h1 align="center">Hi, I'm Claire! 👋</h1>
 <p align="center">
 QA Tester | IT Professional
