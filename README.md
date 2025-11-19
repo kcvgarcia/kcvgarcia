@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://YOUR_PROFILE_PICTURE_URL](https://avatars.githubusercontent.com/u/235477762?v=4)" width="150" alt="Claire Valdez">
+  <img src="[https://avatars.githubusercontent.com/u/235477762?v=4]" width="150" alt="Claire Valdez">
 </p>
 
 <h1 align="center">Hi, I'm Claire! 👋</h1>
